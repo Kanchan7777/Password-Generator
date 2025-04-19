@@ -48,6 +48,7 @@ Feel free to use, modify, and distribute it.
 ## Author
 
 Developed by **Kanchan Kumari**
+<br>
 Python | Tkinter | GUI Development
 
 ---
